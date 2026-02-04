@@ -78,4 +78,10 @@ GPL v2 or later
 
 ## Credits
 
+
 Developed to bring premium-style slider pagination to all WordPress users. Lightweight, secure, and easy to use.
+
+## Author
+Developed by Aminul Sarkar
+Full Stack Developer
+https://aminulsarkar.com
